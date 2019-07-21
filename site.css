@@ -155,7 +155,7 @@ footer {
     float:left;
 }
 .ja {
-    padding-left:270px;
+    margin-left:270px;
 }
 .ja:hover {
     cursor:pointer;
